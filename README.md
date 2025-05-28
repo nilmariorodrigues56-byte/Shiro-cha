@@ -4,14 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Shiro.;Engineer+%7C+Craftsman.;Code+with+intention." alt="Typing SVG" />
 </p>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shiro-cha&color=blue" />
   <img src="https://img.shields.io/github/followers/Shiro-cha?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Shiro-cha?label=Stars&style=social" />
 </p>
-
 
 
 ## 🚀 About Me
