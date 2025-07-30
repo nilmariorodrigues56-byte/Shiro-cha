@@ -39,7 +39,7 @@ Right now, I’m juggling a few projects that reflect what I love: performance, 
 |----------------|-----------------------------------------|------------------|--------------|
 | `Steganegany`  | Next.js, Tailwind, AI, Crypto           | 🔐 Beta testing  | A smart web tool that hides secret data in images. Think steganography made simple. |
 | `Twineo`        | TypeScript, Docker, Linux, Web UI      | ⚙️ Prototyping   | A lightweight task scheduler between your machines. Like a mini-Kubernetes — but for personal use, with a web UI. |
-| `STP`          | C++, Linux, Custom Protocol             | 🧪 R&D           | A smart transmission protocol built for rough or low-bandwidth environments. |
+| `STP`          | C++, Linux, Custom Protocol             | 🧪 R&D           | A command line to automate push and pull on github form VPS. |
 | `Origami-Generator` | Node.js, CLI, JSON/YML              | 🧱 Building      | Generate folder/file boilerplates from structured config files. |
 | `Potify`       | Next.js, Tailwind, Spotify API          | ⏸️ On pause      | A personalized music app that adapts to your vibe using ML. |
 
