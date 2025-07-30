@@ -1,5 +1,4 @@
-
-<!-- Profile Banner (optional custom GIF or static image) -->
+<!-- Profile Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Shiro.;Engineer+%7C+Craftsman.;Code+with+intention." alt="Typing SVG" />
 </p>
@@ -10,47 +9,60 @@
   <img src="https://img.shields.io/github/stars/Shiro-cha?label=Stars&style=social" />
 </p>
 
+---
 
-## 🚀 About Me
+## 🚀 Who I Am
+
+I'm Shiro — a developer who cares deeply about clean code, smart architecture, and building tools that actually matter.
+
+I don’t just write code that *works*, I write code that *lasts*.
+
+- Currently playing with cloud, system design, AI and DevOps tools.
+- I like tech that scales, empowers people, and stands the test of time.
+- Always curious, always building — sometimes breaking stuff just to learn.
+
+---
+
+
 ```diff
 + clean, scalable, and impactful software.
 - it works
 
 ````
+---
 
-* 🧠 Always leveling up: Cloud ☁️, System Design ⚙️, DevOps 🛠️, and AI 🤖.
-* 🧪 Working on: `Potify` 🎶 (Spotify clone with personalization), `STP` 🛰️ (Smart Transmission Protocol), and `Origami-Generator` 📄🧠 .
-* 🔥 Obsessed with architecture & performance.
-* 🌍 Believer in tech that **empowers, scales, and endures**.
+## 🔧 What I'm Working On
 
+Right now, I’m juggling a few projects that reflect what I love: performance, control, and creativity.
 
+| Project         | Stack                                  | Status           | What it does |
+|----------------|-----------------------------------------|------------------|--------------|
+| `Steganegany`  | Next.js, Tailwind, AI, Crypto           | 🔐 Beta testing  | A smart web tool that hides secret data in images. Think steganography made simple. |
+| `Twineo`        | TypeScript, Docker, Linux, Web UI      | ⚙️ Prototyping   | A lightweight task scheduler between your machines. Like a mini-Kubernetes — but for personal use, with a web UI. |
+| `STP`          | C++, Linux, Custom Protocol             | 🧪 R&D           | A smart transmission protocol built for rough or low-bandwidth environments. |
+| `Origami-Generator` | Node.js, CLI, JSON/YML              | 🧱 Building      | Generate folder/file boilerplates from structured config files. |
+| `Potify`       | Next.js, Tailwind, Spotify API          | ⏸️ On pause      | A personalized music app that adapts to your vibe using ML. |
 
-## ⚙️ My Stack Toolbox
+---
+
+## 🛠️ My Dev Toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,bash,react,nextjs,nestjs,bun,docker,postgres,mongodb,linux,laravel,symfony" />
 </div>
 
+---
 
-
-## 📊 GitHub Stats & Activity
+## 📈 GitHub Vibes
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiro-cha&show_icons=true&theme=radical&hide_title=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-cha&layout=compact&theme=radical&hide_title=true" height="160"/>
 </div>
 
+---
 
-## 🚧 Current Projects
-
-| Project             | Tech                           | Status           | Description                                        |
-| ------------------- | ------------------------------ | ---------------- | -------------------------------------------------- |
-| `Potify`            | Next.js, Tailwind, Spotify API | 🛠️ In Progress  | Personalized music experience with ML              |
-| `STP`               | Custom protocol, C++, Linux    | 🧪 Experimenting | Smart data transfer system for low-bandwidth links |
-| `Origami-Generator` | Yml, JSON template             | 🎨 Building MVP  | Generate folder structure by json/yml config     |
-
-
-## 🔗 Connect with Me
+## 🌍 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nomena-razafimahandry/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -59,7 +71,7 @@
   <a href="https://shiro-cha.github.io"><img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
+---
 
-> 🧠 *"Build with clarity, grow with intention, and code like your future depends on it — because it does."*
+> 🧠 *"Build with clarity, grow with intention, and code like your future depends on it — because it does."*  
 > — Shiro
-
