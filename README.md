@@ -13,13 +13,15 @@
 
 ## 🚀 Who I Am
 
-I'm Shiro — a developer who cares deeply about clean code, smart architecture, and building tools that actually matter.
+I'm Shiro — a developer who cares about clean code, good architecture, and building useful tools.
 
-I don’t just write code that *works*, I write code that *lasts*.
+I don’t just write code that works — I write code that lasts.
 
-- Currently playing with cloud, system design, AI and DevOps tools.
-- I like tech that scales, empowers people, and stands the test of time.
-- Always curious, always building — sometimes breaking stuff just to learn.
+    Right now, I’m learning more about cloud, system design, AI, and DevOps tools.
+
+    I like technology that can grow, help people, and stay strong over time.
+
+    I'm always curious, always building — sometimes I break things just to learn.
 
 ---
 
